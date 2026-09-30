@@ -1,0 +1,9 @@
+# Configuration for git attributes
+*.min.css linguist-generated
+Cargo.lock linguist-generated
+
+package-lock.json linguist-generated
+src/**/*.ts linguist-detectable
+*.min.js linguist-generated  
+examples/site/**/*.html linguist-vendored
+examples/site/*.html linguist-vendored
